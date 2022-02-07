@@ -21,3 +21,15 @@ C:\Users\Utente\Documents\GitHub\primawebapp-LucaMoncalvo\WebApplication1\WebApp
 C:\Users\Utente\Documents\GitHub\primawebapp-LucaMoncalvo\WebApplication1\WebApplication1\obj\Debug\net5.0\ref\WebApplication1.dll
 C:\Users\Utente\Documents\GitHub\primawebapp-LucaMoncalvo\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.pdb
 C:\Users\Utente\Documents\GitHub\primawebapp-LucaMoncalvo\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.genruntimeconfig.cache
+C:\Users\Utente\Documents\GitHub\primawebapp-LucaMoncalvo\WebApplication1\WebApplication1\bin\Debug\net5.0\WebApplication1.Views.dll
+C:\Users\Utente\Documents\GitHub\primawebapp-LucaMoncalvo\WebApplication1\WebApplication1\bin\Debug\net5.0\WebApplication1.Views.pdb
+C:\Users\Utente\Documents\GitHub\primawebapp-LucaMoncalvo\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.RazorAssemblyInfo.cache
+C:\Users\Utente\Documents\GitHub\primawebapp-LucaMoncalvo\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.RazorAssemblyInfo.cs
+C:\Users\Utente\Documents\GitHub\primawebapp-LucaMoncalvo\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.TagHelpers.input.cache
+C:\Users\Utente\Documents\GitHub\primawebapp-LucaMoncalvo\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.TagHelpers.output.cache
+C:\Users\Utente\Documents\GitHub\primawebapp-LucaMoncalvo\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.RazorCoreGenerate.cache
+C:\Users\Utente\Documents\GitHub\primawebapp-LucaMoncalvo\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+C:\Users\Utente\Documents\GitHub\primawebapp-LucaMoncalvo\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Pages\Risposta.cshtml.g.cs
+C:\Users\Utente\Documents\GitHub\primawebapp-LucaMoncalvo\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.RazorTargetAssemblyInfo.cs
+C:\Users\Utente\Documents\GitHub\primawebapp-LucaMoncalvo\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.Views.pdb
+C:\Users\Utente\Documents\GitHub\primawebapp-LucaMoncalvo\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.csproj.CopyComplete
